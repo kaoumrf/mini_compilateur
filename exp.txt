@@ -1,0 +1,51 @@
+#include<InOut>
+#include<Arithme>
+
+int FUNCTION sI  (int x, float y)
+{
+int CONST t; int z[5];
+r:=t[2]+a*0/2-y-t[2];
+r:=t[2];
+t[2]:=t[2]+a*0/k+2-y-t[2];
+c[1]:=a;
+a:=0;
+a:=0;
+t[3]:=k+0;
+t[2]:=5.5+0-a/7*o;
+t[2]:="aze0";
+x:= a+f-y*a/c;
+y:=0-a/7*o;
+u:="azeA34";
+input(x,y);
+return x;
+fonction1(a,b)
+output("hello");
+while(h<j) Faire  return a ; Fait
+}
+int FUNCTION sI  (int x, float y)
+{
+int t,z[5];
+}
+main(){
+int CONST t; int z[5];
+r:=t[2]+a*0/2-y-t[2];
+r:=t[2];
+t[2]:=t[2]+a*0/k+2-y-t[2];
+c[1]:=a;
+a:=0;
+/*ee
+d1
+re*/
+t[3]:=k+0;
+t[2]:=5.5+0-a/7*o;
+t[2]:="aze0";
+x:= a+f-y*a/c;
+y:=0-a/7*o;
+u:="azeA34";
+input(x,y);
+return x;
+fonction1(a,b)
+output("hello");
+while(h<j) Faire  return a ; Fait
+
+ }
